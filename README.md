@@ -12,7 +12,54 @@
 
     * 주로 사용하는 언어: TS (JS + Node), Java
 
-    * 기본 코드 읽기와 간략한 코드 작성이 가능한 언어: Python, Kotlin, Rust
+    * 기본 코드 읽기와 간략한 코드 작성이 가능한 언어: Kotlin > Python > Rust
+
+    </details>
+
+* 데브옵스
+
+    <details><summary>(상세보기..)</summary>
+
+    * jenkins server (테스트/빌드/배포) 구축 가능 
+
+    * gitlab server (SCM) 구축 가능
+
+    * Docker, VirtualBox, VMWare
+
+    * kubernetes 클러스터 구축 가능 (docker + kubeadm 프레임워크 기반) 
+
+    * hadoop 클러스터 구축 가능 (centos linux 기반)
+
+
+    </details>
+
+* 테스팅 
+
+    <details><summary>(상세보기..)</summary>
+
+    * BDD (Selenium, Cypress)
+
+    * TDD (Jest, Junit)
+
+    </details>
+
+* 개발환경 
+
+    <details><summary>(상세보기..)</summary>
+
+    * Mac, Linux, Windows
+
+    * Intellij IDEA, Eclipse, VS Code, Vim (Zsh + Iterm2)
+
+    </details>
+
+* 프레임워크 
+
+    <details><summary>(상세보기..)</summary>
+
+    * Spring (Spring Boot)
+
+    * React
 
     </details>
 
@@ -23,6 +70,8 @@
 <!-- #region 미니 프로젝트들 -->
 
 ### 미니 프로젝트들
+
+🐮 (2021년)
 
 - ⚡️ [Redux Middleware, PWA 미니 프로젝트](https://github.com/portfolio-y0711/2021_sandbox)
 
@@ -54,6 +103,8 @@
 
 <!-- <br/> -->
 
+🐁 (2020년)
+
 - ⚡️ [Typescript Express TDD 마이그레이션 프로젝트](https://github.com/portfolio-y0711/2020_tdd)
 
     <details><summary>(상세보기..)</summary>
@@ -78,6 +129,8 @@
     </details>
 
 <!-- <br/> -->
+
+🐷 (2019년)
 - ⚡️ [Java Swing TDD ](https://github.com/portfolio-y0711/2019_tdd)
 
     <details><summary>(상세보기..)</summary>
@@ -90,6 +143,8 @@
 
 <!-- <br/> -->
 
+🐶 (2018년)
+
 - ⚡️ [Python django TDD ](https://github.com/portfolio-y0711/2018_tdd)
 
     <details><summary>(상세보기..)</summary>
@@ -101,6 +156,18 @@
     </details>
 
 <!-- <br/> -->
+
+🏗 (진행중)
+
+- ⚡️ [Monorepo && NPM private repo](https://github.com/portfolio-y0711/2021_monorepo)
+
+    <details><summary>(상세보기..)</summary>
+
+    * 개발환경(준비중) 및 특징 
+
+        * 타입스크립트 기반 모노리포 + gitlab private NPM package repo
+
+    </details>
 
 - ⚡️ [Infrastructure as Code](https://github.com/portfolio-y0711/IaC)
 
