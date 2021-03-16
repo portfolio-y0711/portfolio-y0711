@@ -69,6 +69,16 @@
 
 <!-- #region 미니 프로젝트들 -->
 
+<br/>
+
+### 가장 최근에 진행한 프로젝트 
+
+🐮 (2021년 /3월)
+
+- ⚡️ [Modular Frontend Code Kata](https://github.com/portfolio-y0711/2021_modularJs) &nbsp;/&nbsp; [완성된 페이지](https://portfolio-y0711.github.io/2021_modularJs/)
+
+<br/>
+
 ### 미니 프로젝트들
 
 🐮 (2021년)
