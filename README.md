@@ -8,7 +8,7 @@
 
 * 사용 언어 
 
-    <details><summary>(상세보기..)</summary>
+    <details open><summary>(상세보기..)</summary>
 
     * 주로 사용하는 언어: TS (JS + Node), Java
 
@@ -18,7 +18,7 @@
 
 * 데브옵스
 
-    <details><summary>(상세보기..)</summary>
+    <details open><summary>(상세보기..)</summary>
 
     * jenkins server (테스트/빌드/배포) 구축 가능 
 
@@ -35,7 +35,7 @@
 
 * 테스팅 
 
-    <details><summary>(상세보기..)</summary>
+    <details open><summary>(상세보기..)</summary>
 
     * BDD (Selenium, Cypress)
 
@@ -45,7 +45,7 @@
 
 * 개발환경 
 
-    <details><summary>(상세보기..)</summary>
+    <details open><summary>(상세보기..)</summary>
 
     * Mac, Linux, Windows
 
@@ -55,7 +55,7 @@
 
 * 프레임워크 
 
-    <details><summary>(상세보기..)</summary>
+    <details open><summary>(상세보기..)</summary>
 
     * Spring (Spring Boot)
 
