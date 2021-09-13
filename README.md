@@ -146,9 +146,13 @@
 
 ### 가장 최근에 진행한 프로젝트
 
+🐮 2021년)
+
+- ⚡️ [마이크로서비스](https://github.com/portfolio-y0711/microservices) &nbsp;/&nbsp;[배포](http://portfolio-y0711.com:8000/)
+
 🐮 (2021년 /3월)
 
-- ⚡️ [Modular Frontend Code Kata](https://github.com/portfolio-y0711/2021_modularJs) &nbsp;/&nbsp; [완성된 페이지](https://portfolio-y0711.github.io/2021_modularJs/)
+- ⚡️ [Modular Frontend Code Kata](https://github.com/portfolio-y0711/2021_modularJs) &nbsp;/&nbsp;
 
 <br/>
 
