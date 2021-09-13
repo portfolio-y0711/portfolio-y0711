@@ -6,7 +6,9 @@
 > 필요한 만큼 언어, 기술, 분야를 가리지 않고  
 > 나선형으로, 반복적으로 학습하고 있습니다.
 
-    <h3 align="center">OS</h3>
+<br/>
+
+<h3 align="center">OS</h3>
 
 <div align="center">
     <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/os/windows.svg" alt="windows"  width="56" height="56" />
