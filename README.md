@@ -72,7 +72,11 @@
     &nbsp;
     <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/webpack.svg" alt="webpack"  width="56" height="56" />
 </div>
-<br/><br/>
+<br/>
+
+<br/>
+
+---
 
 - 사용 언어
 
