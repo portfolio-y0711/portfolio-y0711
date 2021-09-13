@@ -4,7 +4,7 @@
 
 > 소프트웨어 개발의 full-cycle을 이해하기 위해  
 > 필요한 만큼 언어, 기술, 분야를 가리지 않고  
-> 나선형으로, 반복적으로 학습하고 있습니다.
+> 나선형, 반복적으로 학습하고 있습니다.
 
 <br/>
 
@@ -30,7 +30,7 @@
 </div>
 <br/><br/>
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Tech Stack (Front-end)</h3>
 
 <div align="center">
     <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/html5.svg" alt="html5"  width="56" height="56" />
@@ -40,15 +40,53 @@
     <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/javascript.svg" alt="javascript"  width="56" height="56" />
     &nbsp;<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/typescript.svg" alt="typescript"  width="56" height="56" />
     &nbsp;
-    <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/java.svg" alt="java"  width="56" height="56" />
-    &nbsp;
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/java.svg" alt="java"  width="56" height="56" />-->
+    <!--&nbsp;-->
     <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/dart.svg" alt="dart"  width="56" height="56" />-->
-    &nbsp;
+    <!--&nbsp;-->
     <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/react.svg" alt="react"  width="56" height="56" />
     &nbsp;
     <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/redux.svg" alt="redux"  width="56" height="56" />
-    &nbsp;
+    <!--&nbsp;-->
     <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/flutter.svg" alt="flutter"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/nodejs.svg" alt="nodejs"  width="56" height="56" />-->
+    &nbsp;
+    <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/express.svg" alt="express"  width="56" height="56" />
+    &nbsp;
+    <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/graphql.svg" alt="graphql"  width="56" height="56" />
+    &nbsp;
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/spring.svg" alt="spring"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/grpc.svg" alt="grpc"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/mongodb.svg" alt="mongodb"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/mysql.svg" alt="mysql"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/oracle.svg" alt="oracle"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/nginx.svg" alt="nginx"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/docker.svg" alt="docker"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/webpack.svg" alt="webpack"  width="56" height="56" />-->
+
+<br/><br/>
+
+<h3 align="center">Tech Stack (Back-end)</h3>
+
+<div align="center">
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/html5.svg" alt="html5"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/css3.svg" alt="css3"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/javascript.svg" alt="javascript"  width="56" height="56" />-->
+    <!--&nbsp;<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/typescript.svg" alt="typescript"  width="56" height="56" />-->
+    <!--&nbsp;-->
+    <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/java.svg" alt="java"  width="56" height="56" />
+    &nbsp;
+    <!--<img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/dart.svg" alt="dart"  width="56" height="56" />-->
     &nbsp;
     <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/nodejs.svg" alt="nodejs"  width="56" height="56" />
     &nbsp;
@@ -148,7 +186,7 @@
 
 🐮 (2021년)
 
-- ⚡️ [마이크로서비스](https://github.com/portfolio-y0711/microservices) &nbsp;/&nbsp;[배포](http://portfolio-y0711.com:8000/)
+- ⚡️ [마이크로서비스](https://github.com/portfolio-y0711/microservices) &nbsp;/&nbsp;[배포](http://portfolio-y0711.com:8000/) \* 배포시간 (평일 오전 9:00 ~ 오후 6:00)
 
 🐮 (2021년 /3월)
 
