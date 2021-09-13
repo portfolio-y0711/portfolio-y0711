@@ -6,62 +6,6 @@
 > 필요한 만큼 언어, 기술, 분야를 가리지 않고  
 > 나선형으로, 반복적으로 학습하고 있습니다.
 
-- 사용 언어
-
-    <details open><summary>(상세보기..)</summary>
-
-  - 주로 사용하는 언어: TS (JS + Node), Java
-
-  - 기본 코드 읽기와 간략한 코드 작성이 가능한 언어: Kotlin > Python > Rust
-
-    </details>
-
-- 데브옵스
-
-    <details open><summary>(상세보기..)</summary>
-
-  - jenkins server (테스트/빌드/배포) 구축 가능
-
-  - gitlab server (SCM) 구축 가능
-
-  - Docker, VirtualBox, VMWare
-
-  - kubernetes 클러스터 구축 가능 (docker + kubeadm 프레임워크 기반)
-
-  - hadoop 클러스터 구축 가능 (centos linux 기반)
-
-    </details>
-
-- 테스팅
-
-    <details open><summary>(상세보기..)</summary>
-
-  - BDD (Selenium, Cypress)
-
-  - TDD (Jest, Junit)
-
-    </details>
-
-- 개발환경
-
-    <details open><summary>(상세보기..)</summary>
-
-  - Mac, Linux, Windows
-
-  - Intellij IDEA, Eclipse, VS Code, Vim (Zsh + Iterm2)
-
-    </details>
-
-- 프레임워크
-
-    <details open><summary>(상세보기..)</summary>
-
-  - Spring (Spring Boot)
-
-  - React
-
-    </details>
-
     <h3 align="center">OS</h3>
 
 <div align="center">
@@ -127,6 +71,62 @@
     <img src="https://github.com/portfolio-y0711/portfolio-y0711/blob/main/images/tech-stack/original/webpack.svg" alt="webpack"  width="56" height="56" />
 </div>
 <br/><br/>
+
+- 사용 언어
+
+    <details open><summary>(상세보기..)</summary>
+
+  - 주로 사용하는 언어: TS (JS + Node), Java
+
+  - 기본 코드 읽기와 간략한 코드 작성이 가능한 언어: Kotlin > Python > Rust
+
+    </details>
+
+- 데브옵스
+
+    <details open><summary>(상세보기..)</summary>
+
+  - jenkins server (테스트/빌드/배포) 구축 가능
+
+  - gitlab server (SCM) 구축 가능
+
+  - Docker, VirtualBox, VMWare
+
+  - kubernetes 클러스터 구축 가능 (docker + kubeadm 프레임워크 기반)
+
+  - hadoop 클러스터 구축 가능 (centos linux 기반)
+
+    </details>
+
+- 테스팅
+
+    <details open><summary>(상세보기..)</summary>
+
+  - BDD (Selenium, Cypress)
+
+  - TDD (Jest, Junit)
+
+    </details>
+
+- 개발환경
+
+    <details open><summary>(상세보기..)</summary>
+
+  - Mac, Linux, Windows
+
+  - Intellij IDEA, Eclipse, VS Code, Vim (Zsh + Iterm2)
+
+    </details>
+
+- 프레임워크
+
+    <details open><summary>(상세보기..)</summary>
+
+  - Spring (Spring Boot)
+
+  - React
+
+    </details>
 
 <!-- <br/> -->
 
