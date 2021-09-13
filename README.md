@@ -78,61 +78,63 @@
 
 ---
 
-- 사용 언어
+###### 사용 언어
 
-    <details open><summary>(상세보기..)</summary>
+  <details open><summary>(상세보기..)</summary>
 
-  - 주로 사용하는 언어: TS (JS + Node), Java
+- 주로 사용하는 언어: TS (JS + Node), Java
 
-  - 기본 코드 읽기와 간략한 코드 작성이 가능한 언어: Kotlin > Python > Rust
+- 기본 코드 읽기와 간략한 코드 작성이 가능한 언어: Kotlin > Python > Rust
 
-    </details>
+  </details>
 
-- 데브옵스
+###### CI / CD
 
-    <details open><summary>(상세보기..)</summary>
+  <details open><summary>(상세보기..)</summary>
 
-  - jenkins server (테스트/빌드/배포) 구축 가능
+- jenkins server (테스트/빌드/배포) 구축 가능
 
-  - gitlab server (SCM) 구축 가능
+- gitlab server (SCM) 구축 가능
 
-  - Docker, VirtualBox, VMWare
+- Docker, VirtualBox, VMWare
 
-  - kubernetes 클러스터 구축 가능 (docker + kubeadm 프레임워크 기반)
+- kubernetes 클러스터 구축 가능 (docker + kubeadm 프레임워크 기반)
 
-  - hadoop 클러스터 구축 가능 (centos linux 기반)
+- hadoop 클러스터 구축 가능 (centos linux 기반)
 
-    </details>
+  </details>
 
-- 테스팅
+###### 테스팅
 
-    <details open><summary>(상세보기..)</summary>
+  <details open><summary>(상세보기..)</summary>
 
-  - BDD (Selenium, Cypress)
+- BDD (Selenium, Cypress)
 
-  - TDD (Jest, Junit)
+- TDD (Jest, Junit)
 
-    </details>
+  </details>
 
-- 개발환경
+###### 개발환경
 
-    <details open><summary>(상세보기..)</summary>
+  <details open><summary>(상세보기..)</summary>
 
-  - Mac, Linux, Windows
+- Mac, Linux, Windows
 
-  - Intellij IDEA, Eclipse, VS Code, Vim (Zsh + Iterm2)
+- Intellij IDEA, Eclipse, VS Code, Vim (Zsh + Iterm2)
 
-    </details>
+  </details>
 
-- 프레임워크
+###### 프레임워크 / 라이브러리
 
-    <details open><summary>(상세보기..)</summary>
+  <details open><summary>(상세보기..)</summary>
 
-  - Spring (Spring Boot)
+- Spring (Spring Boot)
 
-  - React
+- Express
 
-    </details>
+- React
+
+  </details>
 
 <!-- <br/> -->
 
